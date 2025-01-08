@@ -5,7 +5,7 @@
     "image": "bajajmall",
     "category": "",
     "links": {
-      "code": "www.bajajmall.in"
+      "code": "https://bajajmall.in/"
     }
   },
   {
@@ -43,7 +43,7 @@
     "image": "bajajfinserv",
     "category": "basicweb",
     "links": {
-      "code": ""
+      "code": "https://www.bajajfinserv.in/"
     }
   }
 ]
